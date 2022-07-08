@@ -1,0 +1,37 @@
+body{
+    background-color: aqua;
+}
+div{
+    padding:20px;
+    font-family: Montserrat;
+}
+
+.container{
+margin:0 0 0 50px;
+display:table;
+width:90%;
+border-collapse: collapse;
+
+}
+.heading{
+ font-weight: bold;
+ display:table-row;
+ background-color:#E64A19;
+ 
+ text-align: center;
+ line-height: 25px;
+ font-size: 16px;
+ font-family:Montserrat;
+  
+} 
+.table-row{  
+ display:table-row;
+ text-align: center;
+ font-family: Nunito;
+ background-color: #1576c6;
+}
+.col{ 
+width:14.28%;
+display:table-cell;
+ border-bottom: 1px solid #CCC;
+}
